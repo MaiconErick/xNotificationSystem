@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xNotificationSystem</string>
+    <string name="a11y_label">xNotificationSystem island</string>
+    <string name="a11y_description">Lets the notification island draw above the status bar, around the front camera. It does not read screen content.</string>
+</resources>
